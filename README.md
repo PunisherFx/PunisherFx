@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PunisherFx
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning the c and JAVA & SQL
+- 🌱 I’m currently learning the C++ and JAVA (JAVA FX) & SQL
 
