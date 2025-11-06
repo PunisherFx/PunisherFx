@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Youva KACED am computer science student 
-- 👀 I’m interested in cybersecurity & programming 
-- 🌱 I’m currently learning the C++ and JAVA (JAVA FX) & SQL
+- 👀 I’m interested Network administration and cybersecurity & programming. 
+- 🌱 I’m currently learning the C++ , Pyhton .
 
